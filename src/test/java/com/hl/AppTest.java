@@ -1,4 +1,4 @@
-package com.hl.eventstream;
+package com.hl;
 
 import static org.junit.Assert.assertTrue;
 

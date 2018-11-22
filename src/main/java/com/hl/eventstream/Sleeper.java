@@ -1,4 +1,4 @@
-package com.hl.eventstream.eventstream;
+package com.hl.eventstream;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

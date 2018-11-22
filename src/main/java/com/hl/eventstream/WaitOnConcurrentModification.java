@@ -1,4 +1,4 @@
-package com.hl.eventstream.eventstream;
+package com.hl.eventstream;
 
 import com.codahale.metrics.MetricRegistry;
 import com.codahale.metrics.Timer;

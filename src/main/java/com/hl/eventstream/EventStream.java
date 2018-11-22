@@ -1,4 +1,4 @@
-package com.hl.eventstream.eventstream;
+package com.hl.eventstream;
 
 import com.google.common.cache.CacheBuilder;
 import io.reactivex.Observable;
